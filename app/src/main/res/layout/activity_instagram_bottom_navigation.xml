@@ -13,7 +13,7 @@
     android:layout_height="@dimen/bottom_navigation_height"
     android:layout_alignParentBottom="true"
     android:background="@android:color/white"
-    android:elevation="8dp"
+    android:elevation="@dimen/bottom_navigation_elevation"
     android:theme="@style/ThemeOverlay.AppCompat.Light"
     app:tabIndicatorHeight="0dp"
     app:tabMode="fixed"
