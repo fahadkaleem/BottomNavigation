@@ -22,6 +22,8 @@
     </activity>
     <activity android:name=".BottomNavigationShiftingActivity">
     </activity>
+    <activity android:name=".InstagramBottomNavigationActivity">
+    </activity>
   </application>
 
 </manifest>

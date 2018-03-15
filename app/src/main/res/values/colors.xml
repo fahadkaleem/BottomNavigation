@@ -7,6 +7,7 @@
   <color name="lightGrey">#666666</color>
   <color name="grey_20">#cccccc</color>
   <color name="blueGrey">#455A64</color>
+  <color name="black">#000000</color>
 
   <color name="darkColorPrimary">#1e2756</color>
   <color name="darkColorPrimaryDark">#141831</color>
@@ -15,4 +16,5 @@
   <color name="pink_700">#C2185B</color>
   <color name="indigo_700">#303F9F</color>
   <color name="light_green_700">#689F38</color>
+  <color name="overlay_dark_60">#99000000</color>
 </resources>
