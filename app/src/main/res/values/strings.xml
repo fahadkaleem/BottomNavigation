@@ -11,7 +11,11 @@
   <string name="favourites_clicked">Favourites Clicked</string>
   <string name="nearby_clicked">Nearby Clicked</string>
   <string name="movie_amp_tv"><![CDATA[Movie & TV]]></string>
+  <string name="movie_amp_tv_clicked"><![CDATA[Movie & TV Clicked]]></string>
   <string name="music">Music</string>
+  <string name="music_clicked">Music Clicked</string>
   <string name="books">Books</string>
+  <string name="books_clicked">Books Clicked</string>
   <string name="newsstand">Newsstand</string>
+  <string name="newsstand_clicked">Newsstand Clicked</string>
 </resources>

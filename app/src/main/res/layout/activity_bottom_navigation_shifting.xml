@@ -8,6 +8,7 @@
   tools:context="com.mohammedfahadkaleem.bottomnavigation.BottomNavigationShiftingActivity">
 
   <android.support.design.widget.BottomNavigationView
+    android:id="@+id/bottom_navigation_shifting"
     android:layout_width="match_parent"
     android:layout_height="@dimen/bottom_navigation_height"
     android:layout_alignParentBottom="true"
