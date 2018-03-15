@@ -10,6 +10,7 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity {
   Button lightNavigation;
   Button darkNavigation;
+  Button shiftingNavigation;
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
@@ -28,6 +29,14 @@ public class MainActivity extends AppCompatActivity {
       @Override
       public void onClick(View view) {
         Intent intent = new Intent(MainActivity.this,BottomNavigationDarkActivity.class);
+        startActivity(intent);
+      }
+    });
+    shiftingNavigation = findViewById(R.id.btn_shifting_bottom_navigation);
+    shiftingNavigation.setOnClickListener(new OnClickListener() {
+      @Override
+      public void onClick(View view) {
+        Intent intent = new Intent(MainActivity.this,BottomNavigationShiftingActivity.class);
         startActivity(intent);
       }
     });

@@ -20,6 +20,8 @@
     </activity>
     <activity android:name=".BottomNavigationDarkActivity">
     </activity>
+    <activity android:name=".BottomNavigationShiftingActivity">
+    </activity>
   </application>
 
 </manifest>
