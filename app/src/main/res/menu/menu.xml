@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+    android:id="@+id/bottom_navigation_recent"
+    android:icon="@drawable/ic_recent"
+    android:title="@string/recents"
+    />
+  <item
+    android:id="@+id/bottom_navigation_favourites"
+    android:icon="@drawable/ic_favorite"
+    android:title="@string/favourites"/>
+  <item
+    android:id="@+id/bottom_navigation_nearby"
+    android:icon="@drawable/ic_nearby"
+    android:title="@string/nearby"/>
+</menu>

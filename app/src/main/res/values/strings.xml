@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">Bottom Navigation</string>
+  <string name="title_activity_bottom_navigation_basic">BottomNavigationBasic</string>
+  <string name="light">Light</string>
+  <string name="dark">Dark</string>
+  <string name="recents">Recents</string>
+  <string name="favourites">Favourites</string>
+  <string name="nearby">Nearby</string>
+  <string name="recents_clicked">Recents Clicked</string>
+  <string name="favourites_clicked">Favourites Clicked</string>
+  <string name="nearby_clicked">Nearby Clicked</string>
+</resources>

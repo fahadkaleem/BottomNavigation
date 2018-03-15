@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  tools:context="com.mohammedfahadkaleem.bottomnavigation.BottomNavigationDarkActivity">
+
+  <android.support.design.widget.BottomNavigationView
+    android:id="@+id/bottom_navigation_dark"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/bottom_navigation_height"
+    android:background="@color/darkGrey"
+    android:layout_alignParentBottom="true"
+    app:itemIconTint="@drawable/selector_bottom_dark"
+    app:itemTextColor="@drawable/selector_bottom_dark"
+    app:menu="@menu/menu"
+    />
+</RelativeLayout>
