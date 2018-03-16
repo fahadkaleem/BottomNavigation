@@ -7,26 +7,9 @@ Today is Day 1 and I decided to implement different kinds of Bottom Navigation b
  3. Shifting Bottom Navigation Bar
  4. Instagram Bottom Navigation Bar with Tab Layout
 
-## Screenshots
-### Light Themed Bottom Navigation Bar
-![Light Themed Bottom Navigation Bar](https://github.com/fahadkaleem/BottomNavigation/blob/master/screenshots/light.png)
-
-### Dark Themed Bottom Navigation Bar
-![Dark Themed Bottom Navigation Bar](https://github.com/fahadkaleem/BottomNavigation/blob/master/screenshots/dark.png)
-
-### Shifting Bottom Navigation Bar
-![Shifting Bottom Navigation Bar](https://github.com/fahadkaleem/BottomNavigation/blob/master/screenshots/shifting.png)
-
-### Instagram Bottom Navigation Bar
-![Instagram Bottom Navigation Bar](https://github.com/fahadkaleem/BottomNavigation/blob/master/screenshots/instagram.png)
-
-|  |  |
+| Name | Screenshot  |
 |--|--|
-|Light Themed Bottom Navigation Bar
-![Light Themed Bottom Navigation Bar](https://github.com/fahadkaleem/BottomNavigation/blob/master/screenshots/light.png) |Dark Themed Bottom Navigation Bar
-![Dark Themed Bottom Navigation Bar](https://github.com/fahadkaleem/BottomNavigation/blob/master/screenshots/dark.png) |
-|--|--|
-|Shifting Bottom Navigation Bar
-![Shifting Bottom Navigation Bar](https://github.com/fahadkaleem/BottomNavigation/blob/master/screenshots/shifting.png) |Instagram Bottom Navigation Bar
-![Instagram Bottom Navigation Bar](https://github.com/fahadkaleem/BottomNavigation/blob/master/screenshots/instagram.png) |
-
+| Light Themed | ![enter image description here](https://github.com/fahadkaleem/BottomNavigation/blob/master/screenshots/light.png) |
+| Dark Themed | ![enter image description here](https://github.com/fahadkaleem/BottomNavigation/blob/master/screenshots/dark.png) |
+| Shifting | ![enter image description here](https://github.com/fahadkaleem/BottomNavigation/blob/master/screenshots/shifting.png) |
+| Instagram | ![enter image description here](https://github.com/fahadkaleem/BottomNavigation/blob/master/screenshots/instagram.png) |
