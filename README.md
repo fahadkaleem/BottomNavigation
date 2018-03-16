@@ -20,3 +20,13 @@ Today is Day 1 and I decided to implement different kinds of Bottom Navigation b
 ### Instagram Bottom Navigation Bar
 ![Instagram Bottom Navigation Bar](https://github.com/fahadkaleem/BottomNavigation/blob/master/screenshots/instagram.png)
 
+|  |  |
+|--|--|
+|Light Themed Bottom Navigation Bar
+![Light Themed Bottom Navigation Bar](https://github.com/fahadkaleem/BottomNavigation/blob/master/screenshots/light.png) |Dark Themed Bottom Navigation Bar
+![Dark Themed Bottom Navigation Bar](https://github.com/fahadkaleem/BottomNavigation/blob/master/screenshots/dark.png) |
+|--|--|
+|Shifting Bottom Navigation Bar
+![Shifting Bottom Navigation Bar](https://github.com/fahadkaleem/BottomNavigation/blob/master/screenshots/shifting.png) |Instagram Bottom Navigation Bar
+![Instagram Bottom Navigation Bar](https://github.com/fahadkaleem/BottomNavigation/blob/master/screenshots/instagram.png) |
+
